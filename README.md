@@ -40,5 +40,5 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ## Contacto
 
 - Correo electrónico: [ivantala2@gmail.com](mailto:ivantala2@gmail.com)
-- LinkedIn: [Iván González Prado]([enlace-a-mi-perfil-de-LinkedIn](https://www.linkedin.com/in/ivangonzalezprado/))
+- LinkedIn: [Iván González Prado](https://www.linkedin.com/in/ivangonzalezprado/)
 - Sitio web: [tu-sitio-web.com](http://tu-sitio-web.com)
