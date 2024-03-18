@@ -1,4 +1,4 @@
-# Perfil de Desarrollador Full Stack
+# Desarrollador Full Stack
 
 # Hola, soy Iván González Prado
 
