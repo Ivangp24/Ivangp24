@@ -2,8 +2,6 @@
 
 # Hola, soy Iván González Prado
 
-![Desarrollador Full Stack](https://tuimagen.com)
-
 ## Sobre mí
 ¡Hola! Soy un apasionado desarrollador Full Stack con experiencia en una variedad de tecnologías y frameworks. Mi objetivo es crear aplicaciones web y móviles eficientes y escalables que brinden una excelente experiencia al usuario. Me encanta enfrentar desafíos técnicos y aprender constantemente nuevas tecnologías para mejorar mis habilidades.
 
